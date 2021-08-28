@@ -1,6 +1,8 @@
+<?php
 
-  <section class="works">
-    <h1>WORKS</h1>
+include('_header.php');
+
+?>
     <section>
       <img src="img/work1.png" width="400" height="260" alt="勇者ゲームの紹介画像">
       <h1>勇者ゲーム</h1>
@@ -23,4 +25,7 @@
     </section>
 
   
-  
+    <?php
+
+include('_footer.php');
+
